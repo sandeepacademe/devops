@@ -1,3 +1,17 @@
+/***********************************************************
+* Dewdrop - A User Registration Web Service
+*
+* Module: Server.go
+* This is the main module of Dewdrop Service.
+* It consists of
+*    (a) Echo Web Service instantiation
+*    (b) Web HTTP method handlers
+*
+* DevOps Course, Nov 2021
+*
+* Tech Stack : Golang, Mongo
+***********************************************************/
+
 package main
 
 import (
